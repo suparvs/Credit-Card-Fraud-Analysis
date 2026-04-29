@@ -2,7 +2,8 @@
 
 An interactive **Streamlit dashboard** designed to analyze credit card transaction data, uncover fraud patterns, and deliver actionable business insights through intuitive visualizations.
 
----
+---![Uploading image.png…]()
+
 
 ## 📊 Project Overview
 
@@ -117,4 +118,4 @@ http://localhost:8501
 * Enhance UI with interactive visualizations (Plotly)
 
 
-![Uploading image.png…]()
+
